@@ -53,6 +53,7 @@ int menu(int n3)
 		}
 		//getchar();
 		CreatGraph(g1, a, *n1, rcw, *n2);
+		printf("name：唐勰");
 		printf("您已经建立好了路由器的网络拓扑图，请选择所要完成的功能：\n");
 		return n3;
 		break;
